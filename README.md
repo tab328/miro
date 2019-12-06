@@ -1,20 +1,11 @@
-========
- README
-========
+My attempt at updating, streamlining, and customizing this media player since it's the only one I found that had a popout video player with seperate music-player-style controls. (A music video player is all I wanted. Is that so hard?)
+
 
 This repository holds source code for several components of Miro, the
 open and free Internet TV platform.  For more information about Miro,
 see:
 
 * http://www.getmiro.com/
-* http://participatoryculture.org/
-
-For the development site for the projects tracked here, including bug
-tracking, the developer documentation wiki, mailing lists, and more,
-go to:
-
-* https://develop.participatoryculture.org/
-
 
 What's here
 ===========
