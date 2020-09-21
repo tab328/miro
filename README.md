@@ -32,3 +32,8 @@ Miro
 
   Scripts, packaging files, and a bunch of other stuff that helps
   us doing development on Miro and related projects.
+
+What's NOT here
+===========
+
+All the binaries. The website they were hosted on has been taken down. If anyone can find those, let me know.
